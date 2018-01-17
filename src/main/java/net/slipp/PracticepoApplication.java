@@ -8,5 +8,6 @@ public class PracticepoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticepoApplication.class, args);
+		System.out.println("hi");
 	}
 }
